@@ -1,13 +1,14 @@
 ---
 services: compute
 platforms: java
-author: anuamd
+author: anuchandy
 ---
 
 #Getting Started with Network - Manage Virtual Network - in Java #
 
 
-  Azure Network sample for managing virtual networks -
+Network: Manage Virtual Network Sample (for 1.0.0-beta2) - demonstrates how to perform common tasks using the Microsoft Azure Network service.
+
    - Create a virtual network with Subnets
    - Update a virtual network
    - Create virtual machines in the virtual network subnets
