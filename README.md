@@ -1,5 +1,5 @@
 ---
-services: compute
+services: network
 platforms: java
 author: anuchandy
 ---
