@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network
-- platforms: java
+description: "Getting Started with Network - Manage Virtual Network - in Java"
+urlFragment: network-java-manage-virtual-network
 ---
 
 # Getting Started with Network - Manage Virtual Network - in Java #
